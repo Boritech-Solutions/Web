@@ -6,14 +6,19 @@ permalink: /about/
 
 We are a small scientific and technical consulting agency that especializes in 
 bringing you the best solutions to a geological, geodesy, and geospatial problem. 
-We are experienced in programming, GIS Mapping, and geological research.
+We are experienced in programming, GIS Mapping, and geological research.    
 
+-----
 # Services
 We currently provide various services which include:
    * Create and implement open source solutions for seismological software such as Earthworm and Seiscomp.
+   * A wide array of geological mapping and GIS work.    
 
+-----
 # Program portfolio
-Our program portfolio includes:
+We can develop and implement software to suit your need. We offer flexibility in programing
+languages although we specialize in C++ and Python. Currently our software portfolio 
+includes the following programs:
 
   * [gsof2ew](https://github.com/Boritech-Solutions/GSOF2EW)
     * gsof2ew is a program created by BoriTech Solutions that provides the ability of a 
