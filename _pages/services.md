@@ -4,11 +4,7 @@ title: Services
 permalink: /services/
 ---
 We currently provide various services which include:
-
-
-
-
-
+   * Create and implement open source solutions for seismological software such as Earthworm and Seiscomp.
 
 # Program portfolio
 Our program portfolio includes:
