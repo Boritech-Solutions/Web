@@ -1,5 +1,5 @@
 ---
 layout: single-page
 title: Sitemap
-permalink: /sitemap/
+permalink: /contact/
 ---
