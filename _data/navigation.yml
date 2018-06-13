@@ -8,5 +8,5 @@ main:
     url: /personnel/
   - title: "Services"
     url: /services/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Contact us"
+    url: /contact/
