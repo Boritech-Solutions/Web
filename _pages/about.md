@@ -4,17 +4,22 @@ title: About Us
 permalink: /about/
 ---
 
+
 We are a small scientific and technical consulting agency that especializes in 
 bringing you the best solutions to a geological, geodesy, and geospatial problem. 
-We are experienced in programming, GIS Mapping, and geological research.    
+We are experienced in programming, GIS Mapping, and geological research.
 
------
+<hr style="margin-top: 3em;">
 # Services
+<p style="margin-bottom: -0.5em;">
 We currently provide various services which include:
+</p>
    * Create and implement open source solutions for seismological software such as Earthworm and Seiscomp.
-   * A wide array of geological mapping and GIS work.    
+   * A wide array of geological mapping and GIS work. 
 
------
+We however can offer other geotechical services upon request. Contact us for availability.
+
+<hr style="margin-top: 3em;">
 # Program portfolio
 We can develop and implement software to suit your need. We offer flexibility in programing
 languages although we specialize in C++ and Python. Currently our software portfolio 
