@@ -17,7 +17,7 @@ We currently provide various services which include:
    * Create and implement open source solutions for seismological software such as Earthworm and Seiscomp.
    * A wide array of geological mapping and GIS work. 
 
-We however can offer other geotechical services upon request. Contact us for availability.
+We however can offer other geotechnical services upon request. Contact us for availability.
 
 <hr style="margin-top: 3em;">
 # Program portfolio
