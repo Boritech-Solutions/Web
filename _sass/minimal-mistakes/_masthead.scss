@@ -4,13 +4,14 @@
 
 .masthead {
   position: relative;
+  background-color: #000000;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
-
+    
   &__inner-wrap {
     @include clearfix;
     margin-left: auto;
@@ -25,6 +26,12 @@
 
     @include breakpoint($x-large) {
       max-width: $x-large;
+    }
+
+    img {
+      height: 60px;
+      width: auto;
+      margin: 0px 20px
     }
 
     nav {
@@ -57,7 +64,8 @@
 
   .site-nav {
     margin-left: 0;
-
+    background-color: #000000;
+    
     @include breakpoint($small) {
       float: right;
     }
