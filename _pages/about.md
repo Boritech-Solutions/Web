@@ -3,6 +3,7 @@ layout: single-page
 title: Services
 permalink: /about/
 ---
+<p style="margin-bottom: -0.5em;">
 We currently provide various services which include:
 </p>
    * Create and implement open source solutions for seismological software such as Earthworm and Seiscomp.
