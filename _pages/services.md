@@ -14,5 +14,5 @@ Our program portfolio includes:
     RTX enabled Trimble GPS reciever to provide Precise Point Positioning data directly to an Earthworm system.
   * [bnc2ew](https://github.com/Boritech-Solutions/BNC2EW)
     * BNC is a program developed by the BKG GNSS Datacenter that creates 
-    Precise Point Positioning by post-processing RINEX data. It has been modified by BoriTech Solutions 
+    Precise Point Positioning by post-processing RINEX data. It has been adapted by BoriTech Solutions 
     to allow for data to be placed directly into an Earthworm system.

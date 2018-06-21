@@ -21,7 +21,7 @@ We however can offer other geotechnical services upon request. Contact us for av
 
 <hr style="margin-top: 3em;">
 # Program portfolio
-We can develop and implement software to suit your need. We offer flexibility in programing
+We develop and implement software to suit your need. We offer flexibility in programing
 languages although we specialize in C++ and Python. Currently our software portfolio 
 includes the following programs:
 
