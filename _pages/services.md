@@ -3,9 +3,14 @@ layout: single-page
 title: Services
 permalink: /services/
 ---
+ <p style="margin-bottom: -0.5em;">
 We currently provide various services which include:
+ </p>
    * Create and implement open source solutions for seismological software such as Earthworm and Seiscomp.
+   * A wide array of geological mapping and GIS work. 
+We however can offer other geotechnical services upon request. Contact us for availability.
 
+<hr style="margin-top: 3em;">
 # Program portfolio
 Our program portfolio includes:
 
