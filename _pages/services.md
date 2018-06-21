@@ -12,7 +12,9 @@ We however can offer other geotechnical services upon request. Contact us for av
 
 <hr style="margin-top: 3em;">
 # Program portfolio
-Our program portfolio includes:
+We develop and implement software to suit your need. We offer flexibility in programing
+languages although we specialize in C++ and Python. Currently our software portfolio 
+includes the following programs:
 
   * [gsof2ew](https://github.com/Boritech-Solutions/GSOF2EW)
     * gsof2ew is a program created by BoriTech Solutions that provides the ability of a 
