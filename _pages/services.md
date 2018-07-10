@@ -3,15 +3,25 @@ layout: single-page
 title: Services
 permalink: /services/
 ---
- <p style="margin-bottom: -0.5em;">
-We currently provide various services which include:
- </p>
-   * Create and implement open source solutions for seismological software such as Earthworm and Seiscomp.
-   * A wide array of geological mapping and GIS work.   
-   
-We however can offer other geotechnical services upon request. Contact us for availability.
+<div style="width=100%; overflow: auto;">
+  <div style="width: 420px; float: right;">
+    <img src="/assets/images/20160713_145546.jpg" style="border-radius: 25px;">
+  </div>
+  <div style="width: calc(100% - 420px); min-width: 420px; margin-right: 420px; padding-left: 20px; padding-right: 20px; display: block;">
+    <p style="margin-bottom: -0.5em;">
+      We currently provide various services which include:
+    </p>
+    <ul>
+      <li> Create and implement open source solutions for seismological software such as Earthworm and Seiscomp. </li>
+      <li> Conversion work of programs between different programing languages </li>
+      <li> A wide array of geological mapping and GIS work. </li>
+    </ul>
+    <p style="margin-bottom: 0;"> We however can offer other geotechnical services upon request. Contact us for availability. </p>
+  </div>
+</div>
 
 <hr style="margin-top: 3em;">
+
 # Program portfolio
 We develop and implement software to suit your need. We offer flexibility in programing
 languages although we specialize in C++ and Python. Currently our software portfolio 
@@ -24,3 +34,7 @@ includes the following programs:
     * BNC is a program developed by the BKG GNSS Datacenter that creates 
     Precise Point Positioning by post-processing RINEX data. It has been adapted by BoriTech Solutions 
     to allow for data to be placed directly into an Earthworm system.
+  * [PyEW](https://github.com/Boritech-Solutions/PyEW)
+    * PyEW is a python interface to the Earthworm Messaging Transport system. 
+    It seeks to create an easy to use framework to create modern earthworm modules with python.
+    The extension allows you to easily connect to any earthworm memory ring directly and extract messages
