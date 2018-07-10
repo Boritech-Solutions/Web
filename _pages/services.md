@@ -5,7 +5,7 @@ permalink: /services/
 ---
 <div style="width=100%; overflow: auto;">
   <div style="width: 40%; float: right; min-width: 300px">
-    <img src="/assets/images/20160713_145546.jpg" style="border-radius: 25px;">
+    <img src="/assets/images/20160713_145546.jpg" style="border-radius: 25px; display: block; margin-left: auto; margin-right: auto; width: 99%;">
   </div>
   <div style="width: 100%; margin-right: 60%; padding-left: 10px; padding-right: 10px;">
     <p style="margin-bottom: -0.5em;">
