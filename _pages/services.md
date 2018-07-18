@@ -34,7 +34,7 @@ includes the following programs:
     * BNC is a program developed by the BKG GNSS Datacenter that creates 
     Precise Point Positioning by post-processing RINEX data. It has been adapted by BoriTech Solutions 
     to allow for data to be placed directly into an Earthworm system.
-  * [PyEW](https://github.com/Boritech-Solutions/PyEW)
-    * PyEW is a python interface to the Earthworm Messaging Transport system. 
+  * [PyEarthWorm](https://github.com/Boritech-Solutions/PyEarthWorm)
+    * PyEarthWorm is a python interface to the Earthworm Messaging Transport system. 
     It seeks to create an easy to use framework to create modern earthworm modules with python.
     The extension allows you to easily connect to any earthworm memory ring directly and extract messages
