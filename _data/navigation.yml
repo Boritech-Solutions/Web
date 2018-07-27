@@ -2,9 +2,11 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: /
   - title: "Services"
     url: /services/
-  - title: "Personnel"
-    url: /personnel/
+  #- title: "Personnel"
+  #  url: /personnel/
   - title: "Contact us"
     url: /contact/

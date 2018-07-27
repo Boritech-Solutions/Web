@@ -35,6 +35,7 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
+  text-align: center;
 
   a {
     color: inherit;
@@ -56,6 +57,7 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
+  text-align: center;
 
   & + p {
     text-indent: 0;
