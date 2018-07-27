@@ -16,7 +16,7 @@ permalink: /services/
       <li><a href="/Geodesy/">Geodesy solutions</a> such as GPS station maintanence, fault identification (GPR, Seismic lines, LiDAR, etc) </li>
       <li> <a href="/Consulting/">Consulting solutions</a> which include a wide array of geological mapping and GIS work. </li>
     </ul>
-    <p style="margin-bottom: 0;"> We however can offer other geotechnical services upon request. Contact us for availability. </p>
+    <p style="margin-bottom: 0;"> We however can offer other geotechnical services upon request. <a href="/contact/">Contact us</a> for availability. </p>
   </div>
 </div>
 
