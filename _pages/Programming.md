@@ -29,9 +29,9 @@ gallery:
     title: "Seimic study visualized in OpenDTect"
 ---
 
-We develop and implement software to suit your need. We offer flexibility in programing
-languages although we specialize in C++ and Python. Currently our software portfolio 
-includes the following programs:
+We develop and implement software to suit your needs and offer flexibility in programing
+languages. However our specialization is in C++ and Python. Currently the software portfolio 
+includes the following programs and libraries:
 
   * [gsof2ew](https://github.com/Boritech-Solutions/GSOF2EW)
     * gsof2ew is a program created by BoriTech Solutions that provides the ability of a 
