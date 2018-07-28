@@ -19,7 +19,7 @@ gallery:
     image_path: /assets/images/Geodesy/thumbs/3.Lidar.gif
     alt: "Terrestial LiDAR"
     title: "Terrestial LiDAR"
-  - url: /assets/images/Geodesy/4.GIS.png
+  - url: /assets/images/Geodesy/4.GIS.jpg
     image_path: /assets/images/Geodesy/thumbs/4.GIS.gif
     alt: "GIS Mapping"
     title: "GIS Mapping"
