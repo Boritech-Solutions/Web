@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BoriTech Solutions LLC"
+title                    : "Boritech Solutions LLC"
 title_separator          : "-"
-name                     : "BoriTech Solutions LLC"
-description              : "BoriTech Solutions LLC provides scientific consulting and technical support focus in geodesy and geospatial data."
+name                     : "Boritech Solutions LLC"
+description              : "Boritech Solutions LLC provides scientific consulting and technical support focus in geodesy and geospatial data."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 'Boritech-Solutions/Web' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
