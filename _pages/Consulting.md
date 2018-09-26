@@ -21,7 +21,7 @@ gallery:
     title: "Landslide"
   - url: /assets/images/Consulting/5.jpg
     image_path: /assets/images/Consulting/thumbs/5.gif
-    alt: "Trench used for identifying fault systems"
+    alt: "Erosion by strong currents after a heavy rainfall"
     title: "Trench used for identifying fault systems"
   - url: /assets/images/Consulting/6.jpg
     image_path: /assets/images/Consulting/thumbs/6.gif
