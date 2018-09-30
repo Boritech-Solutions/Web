@@ -24,9 +24,9 @@ gallery:
     alt: "PyEarthWorm Help Page"
     title: "PyEarthworm Help Page"
   - url: /assets/images/Programming/5.jpg
-    image_path: /assets/images/Programming/5.jpg
-    alt: "Seimic study visualized in OpenDTect"
-    title: "Seimic study visualized in OpenDTect"
+    image_path: /assets/images/Programming/thumbs/5.gif
+    alt: "RaspberryPi Computer used for scientific research"
+    title: "RaspberryPi Computer used for scientific research"
 ---
 
 We develop and implement software to suit your needs and offer flexibility in programing
