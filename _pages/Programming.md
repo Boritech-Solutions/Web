@@ -4,7 +4,7 @@ title: Programming
 permalink: /Programming/
 gallery:
   - url: /assets/images/Programming/7.jpg
-    image_path: /assets/images/Programming/7.jpg
+    image_path: /assets/images/Programming/thumbs/7.gif
     alt: "New GPS Constrains on Crustal Deformation within the Puerto Rico-Virgin Islands Microplate by Margarita S."
     title: "New GPS Constrains on Crustal Deformation within the Puerto Rico-Virgin Islands Microplate by Margarita S."
   - url: /assets/images/Programming/2.jpg
@@ -12,11 +12,11 @@ gallery:
     alt: "Fernando M at the Caribbean Tsunami Warning Center"
     title: "Fernando M at the Caribbean Tsunami Warning Center"
   - url: /assets/images/Programming/3.jpg
-    image_path: /assets/images/Programming/3.jpg
+    image_path: /assets/images/Programming/thumbs/3.gif
     alt: "Characterizing the Temporal and Spatial Distribution of Earthquake Swarms in the Puerto Rico - Virgin Island Block by Francisco M"
     title: "Characterizing the Temporal and Spatial Distribution of Earthquake Swarms in the Puerto Rico - Virgin Island Block by Francisco M"
   - url: /assets/images/Programming/1.Terminal.png
-    image_path: /assets/images/Programming/1.Terminal.png
+    image_path: /assets/images/Programming/thumbs/1.gif
     alt: "Earthworm Status Message"
     title: "Earthworm Status Message"
   - url: /assets/images/Programming/4.png
