@@ -21,8 +21,8 @@ gallery:
     title: "Earthworm Status Message"
   - url: /assets/images/Programming/4.png
     image_path: /assets/images/Programming/thumbs/4.gif
-    alt: "PyEarthWorm Help Page"
-    title: "PyEarthworm Help Page"
+    alt: "Boritech Solutions is adept at using various languages"
+    title: "Boritech Solutions is adept at using various languages"
   - url: /assets/images/Programming/5.jpg
     image_path: /assets/images/Programming/thumbs/5.gif
     alt: "RaspberryPi Computer used for scientific research"
