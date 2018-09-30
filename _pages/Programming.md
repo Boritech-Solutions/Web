@@ -19,7 +19,7 @@ gallery:
     image_path: /assets/images/Programming/thumbs/1.gif
     alt: "Earthworm Status Message"
     title: "Earthworm Status Message"
-  - url: /assets/images/Programming/4.png
+  - url: /assets/images/Programming/4.jpg
     image_path: /assets/images/Programming/thumbs/4.gif
     alt: "Boritech Solutions is adept at using various languages"
     title: "Boritech Solutions is adept at using various languages"
