@@ -3,8 +3,8 @@ layout: single-page
 title: Programming
 permalink: /Programming/
 gallery:
-  - url: /assets/images/Programming/7.jpg
-    image_path: /assets/images/Programming/thumbs/7.gif
+  - url: /assets/images/Programming/1.jpg
+    image_path: /assets/images/Programming/thumbs/1.gif
     alt: "New GPS Constrains on Crustal Deformation within the Puerto Rico-Virgin Islands Microplate by Margarita S."
     title: "New GPS Constrains on Crustal Deformation within the Puerto Rico-Virgin Islands Microplate by Margarita S."
   - url: /assets/images/Programming/2.jpg
@@ -15,16 +15,16 @@ gallery:
     image_path: /assets/images/Programming/thumbs/3.gif
     alt: "Characterizing the Temporal and Spatial Distribution of Earthquake Swarms in the Puerto Rico - Virgin Island Block by Francisco M"
     title: "Characterizing the Temporal and Spatial Distribution of Earthquake Swarms in the Puerto Rico - Virgin Island Block by Francisco M"
-  - url: /assets/images/Programming/1.Terminal.png
-    image_path: /assets/images/Programming/thumbs/1.gif
-    alt: "Earthworm Status Message"
-    title: "Earthworm Status Message"
   - url: /assets/images/Programming/4.jpg
     image_path: /assets/images/Programming/thumbs/4.gif
-    alt: "Boritech Solutions is adept at using various languages"
-    title: "Boritech Solutions is adept at using various languages"
+    alt: "Earthworm Status Message"
+    title: "Earthworm Status Message"
   - url: /assets/images/Programming/5.jpg
     image_path: /assets/images/Programming/thumbs/5.gif
+    alt: "Boritech Solutions is adept at using various languages"
+    title: "Boritech Solutions is adept at using various languages"
+  - url: /assets/images/Programming/6.jpg
+    image_path: /assets/images/Programming/thumbs/6.gif
     alt: "RaspberryPi Computer used for scientific research"
     title: "RaspberryPi Computer used for scientific research"
 ---
