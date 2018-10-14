@@ -29,7 +29,7 @@ gallery:
     title: "Coastal erosion"
 
 ---
-Our team of scientists have experience working for differente goverment agencies such as:
+Our team of scientists have experience working for different government agencies such as:
   * U.S. Environmental Protection Agency (EPA)
   * U.S. Geological Survey (USGS)
   * National Oceanic and Atmospheric Administration (NOAA)
