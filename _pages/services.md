@@ -1,12 +1,21 @@
 ---
-layout: single-page
+layout: splash
 title: Services
 permalink: /services/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.0"
+  overlay_image: /assets/images/splash3.jpg
 ---
+<style>
+.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn, .page__hero--overlay #goog-wm-sb {
+    color: #eaeaea;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+    margin-inline-start: 2em;
+}
+</style>
+
 <div style="width=100%; overflow: auto;">
-  <div style="width: 40%; float: right; min-width: 300px">
-    <img src="/assets/images/20160713_145546.jpg" style="border-radius: 25px; display: block; margin-left: auto; margin-right: auto; width: 99%;">
-  </div>
   <div style="width: 100%; margin-right: 60%; padding-left: 10px; padding-right: 10px;">
     <p style="margin-bottom: -0.5em;">
       We currently provide various services which include:
