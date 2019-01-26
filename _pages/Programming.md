@@ -17,12 +17,12 @@ gallery:
     title: "Characterizing the Temporal and Spatial Distribution of Earthquake Swarms in the Puerto Rico - Virgin Island Block by Francisco M"
   - url: /assets/images/Programming/4.jpg
     image_path: /assets/images/Programming/thumbs/4.gif
-    alt: "Earthworm Status Message"
-    title: "Earthworm Status Message"
+    alt: "Boritech Solutions can also be tech support for hardware"
+    title: "Boritech Solutions can also be tech support for hardware"
   - url: /assets/images/Programming/5.jpg
     image_path: /assets/images/Programming/thumbs/5.gif
-    alt: "Boritech Solutions is adept at using various languages"
-    title: "Boritech Solutions is adept at using various languages"
+    alt: "Boritech Solutions has a variety of equipment such as 3D Printers"
+    title: "Boritech Solutions has a variety of equipment such as 3D Printers"
   - url: /assets/images/Programming/6.jpg
     image_path: /assets/images/Programming/thumbs/6.gif
     alt: "RaspberryPi Computer used for scientific research"
