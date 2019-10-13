@@ -22,8 +22,8 @@ header:
     </p>
     <ul>
       <li><a href="/Programming/">Programming solutions</a> for seismological software such as Earthworm and Seiscomp. </li>
-      <li><a href="/Geodesy/">Geodesy solutions</a> such as GPS station maintanence, fault identification (GPR, Seismic lines, LiDAR, etc) </li>
-      <li> <a href="/Consulting/">Consulting solutions</a> which include a wide array of geological mapping and GIS work. </li>
+      <!-- <li><a href="/Geodesy/">Geodesy solutions</a> such as GPS station maintanence, fault identification (GPR, Seismic lines, LiDAR, etc) </li> -->
+      <!-- <li> <a href="/Consulting/">Consulting solutions</a> which include a wide array of geological mapping and GIS work. </li> -->
     </ul>
     <p style="margin-bottom: 0;"> However other geotechnical services can be offered upon request. <a href="/contact/">Contact us</a> for availability. </p>
   </div>
