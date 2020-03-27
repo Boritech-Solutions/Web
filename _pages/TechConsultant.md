@@ -17,7 +17,14 @@ gallery:
     title: "3D Printed Weather Station"
 ---
 We have a time of scientist ready to help clients to solve problems using technology that includes
- from programming to build 3D printed parts to constructs instrument to gather the data they need.
+from programming to build 3D printed parts to constructs instrument to gather the data they need.
 
+  * Puerto Rico Seismic Network
+    * gsof2ring is a program created by Boritech Solutions that provides the means to connect a Trimble RTX-enabled GPS directly to Earthworm as a trace via the gsof protocol.
 
-{% include gallery %}
+  * U.S. Geological Survey in Menlo Park, CA
+    * PyEWPlot Application Programming Interface (API)
+
+  * Cacao Valent Farm
+    * A weather station was build using our 3D printer to gather weather data at our client farm. Puerto Rico Seismic Network
+
