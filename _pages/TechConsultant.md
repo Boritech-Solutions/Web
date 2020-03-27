@@ -4,7 +4,7 @@ title: Geodesy
 permalink: /TechConsultant/
 gallery:
   - url: /assets/images/TechConsult/1.jpg
-    image_path: /assets/images/Geodesy/thumbs/1.gif
+    image_path: /assets/images/TechConsult/1.jpg
     alt: "GPS to Earthworm at PRSN"
     title: "GPS to Earthworm at Puerto Rico Seismic Network"
   - url: /assets/images/TechConsult/2.png
