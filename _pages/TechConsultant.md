@@ -28,3 +28,4 @@ from programming to build 3D printed parts to constructs instrument to gather th
   * Cacao Valent Farm
     * A weather station was build using our 3D printer to gather weather data at our client farm. Puerto Rico Seismic Network
 
+{% include gallery %}
