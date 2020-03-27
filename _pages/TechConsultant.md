@@ -1,6 +1,6 @@
 ---
 layout: single-page
-title: Geodesy
+title: Tech Consultancy
 permalink: /TechConsultant/
 gallery:
   - url: /assets/images/TechConsult/1.jpg
