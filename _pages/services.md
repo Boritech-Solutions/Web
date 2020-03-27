@@ -22,6 +22,7 @@ header:
     </p>
     <ul>
       <li><a href="/Programming/">Programming solutions</a> for seismological software such as Earthworm and Seiscomp. </li>
+      <li><a href="/Geodesy/">Technical consultency</a> such as Science and Engineer Projects, Business Tech Support </li> 
       <!-- <li><a href="/Geodesy/">Geodesy solutions</a> such as GPS station maintanence, fault identification (GPR, Seismic lines, LiDAR, etc) </li> -->
       <!-- <li> <a href="/Consulting/">Consulting solutions</a> which include a wide array of geological mapping and GIS work. </li> -->
     </ul>
