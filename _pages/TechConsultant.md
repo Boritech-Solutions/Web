@@ -9,12 +9,12 @@ gallery:
     title: "GPS to Earthworm at Puerto Rico Seismic Network"
   - url: /assets/images/TechConsult/2.png
     image_path: /assets/images/TechConsult/thumbs/2.gif
-    alt: "Custom EW Plot Solution"
-    title: "Custom EW Plot Solution"
+    alt: "Custom EW Plot Solution for USGS"
+    title: "Custom EW Plot Solution for US Geological Survey"
   - url: /assets/images/TechConsult/3.jpg
     image_path: /assets/images/TechConsult/thumbs/3.gif
-    alt: "3D Printed Weather Station"
-    title: "3D Printed Weather Station"
+    alt: "3D Printed Weather Station for Cacao Valent"
+    title: "3D Printed Weather Station for Cacao Valent"
 ---
 We have a time of scientist ready to help clients to solve problems using technology that includes
 from programming to build 3D printed parts to constructs instrument to gather the data they need.
