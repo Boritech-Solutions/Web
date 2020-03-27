@@ -1,7 +1,7 @@
 ---
 layout: single-page
 title: Geodesy
-permalink: /Geodesy/
+permalink: /TechConsultant/
 gallery:
   - url: /assets/images/TechConsult/1.jpg
     image_path: /assets/images/Geodesy/thumbs/1.gif
