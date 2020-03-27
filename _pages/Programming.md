@@ -45,6 +45,4 @@ includes the following programs and libraries:
     It seeks to create an easy to use framework to create modern earthworm modules with python.
     The extension allows you to easily connect to any earthworm memory ring directly and extract messages
 
-We can also implement solutions as web pages and mobile apps. 
-
 {% include gallery %}
