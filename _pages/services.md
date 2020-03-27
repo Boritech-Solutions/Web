@@ -5,7 +5,7 @@ permalink: /services/
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/splash3.jpg
+  overlay_image:  /assets/images/splash.png
 ---
 <style>
 .page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn, .page__hero--overlay #goog-wm-sb {
