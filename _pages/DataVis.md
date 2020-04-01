@@ -11,7 +11,7 @@ gallery:
     image_path: /assets/images/DataVis/2.png
     alt: "Airborne Lidar Images proccesed to give difference in height"
     title: "Airborne Lidar Images proccesed to give difference in height"
-  - url: /assets/images/DataVis/1.png
+  - url: /assets/images/DataVis/3.png
     image_path: /assets/images/DataVis/3.png
     alt: "Lidar Images"
     title: "Lidar Images"
