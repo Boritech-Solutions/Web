@@ -22,7 +22,7 @@ Our team is compose by several data scientist with experience in data processing
    * Geographical Information System (GIS)
    * Remote Sensing
    * Google Earth Engine
-   * Mini tab and R
+   * Minitab and R
    * Tensor Flow
    * MATLAB
    * Matplotlib (Python)
