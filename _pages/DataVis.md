@@ -1,18 +1,18 @@
 ---
 layout: single-page
-title: Tech Consultancy
+title: Data Visualization
 permalink: /DataVis/
 gallery:
-  - url: /assets/images/TechConsult/1.jpg
-    image_path: /assets/images/TechConsult/thumbs/1.gif
+  - url: /assets/images/DataVis/1.png
+    image_path: assets/images/DataVis/1.png
     alt: "GPS to Earthworm at PRSN"
     title: "GPS to Earthworm at Puerto Rico Seismic Network"
-  - url: /assets/images/TechConsult/2.png
-    image_path: /assets/images/TechConsult/thumbs/2.gif
+  - url: assets/images/DataVis/2.png
+    image_path: /assets/images/DataVis/2.png
     alt: "Custom EW Plot Solution for USGS"
     title: "Custom EW Plot Solution for US Geological Survey"
-  - url: /assets/images/TechConsult/3.jpg
-    image_path: /assets/images/TechConsult/thumbs/3.gif
+  - url: /assets/images/DataVis/1.png
+    image_path: /assets/images/DataVis/3.png
     alt: "3D Printed Weather Station for Cacao Valent"
     title: "3D Printed Weather Station for Cacao Valent"
 ---
