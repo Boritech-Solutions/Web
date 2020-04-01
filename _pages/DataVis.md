@@ -5,16 +5,16 @@ permalink: /DataVis/
 gallery:
   - url: /assets/images/DataVis/1.png
     image_path: assets/images/DataVis/1.png
-    alt: "GPS to Earthworm at PRSN"
-    title: "GPS to Earthworm at Puerto Rico Seismic Network"
+    alt: "Map of Moment Tensors"
+    title: "Map of Moment Tensors around Puerto Rico"
   - url: assets/images/DataVis/2.png
     image_path: /assets/images/DataVis/2.png
-    alt: "Custom EW Plot Solution for USGS"
-    title: "Custom EW Plot Solution for US Geological Survey"
+    alt: "Airborne Lidar Images proccesed to give difference in height"
+    title: "Airborne Lidar Images proccesed to give difference in height"
   - url: /assets/images/DataVis/1.png
     image_path: /assets/images/DataVis/3.png
-    alt: "3D Printed Weather Station for Cacao Valent"
-    title: "3D Printed Weather Station for Cacao Valent"
+    alt: "Lidar Images"
+    title: "Lidar Images"
 ---
 
 Our team is compose by several data scientist with experience in data processing and visualization in different software's and formats that included:
